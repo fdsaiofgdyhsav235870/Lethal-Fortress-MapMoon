@@ -15,7 +15,6 @@ Welcome,we have TF2 map mod for lethal company here!You can download them in thu
 - 已安装并更新 [DawnLib](https://github.com/daivuk/DawnLib)
 - 没有冲突的模组
 ---
-```markdown
 ## How to Report a Bug / 如何报告 Bug
 ### Required Information / 必需信息
 If you are about creating a new issue,please include the matched infomation you have as following:
@@ -37,5 +36,4 @@ If you are about creating a new issue,please include the matched infomation you 
 [Paste relevant log content or attach LogOutput.log / 粘贴相关日志内容或附上 LogOutput.log]
 ### Screenshots / 截图 (optional)
 [Attach images if you have a clear one and it'll be  helpful / 附上清晰的截图，这更有帮助]
-```
 ---
