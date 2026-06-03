@@ -1,12 +1,13 @@
-## Welcome!You can report any found bug in map,Or if you want to have a look at mod,you can download them on [Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/) or any other mod manager. Hope you have fun with the TF2 content in Lethal Company! ##
-
-Now we have these following TF2Map as **moon** mod
-- [Badwater](https://thunderstore.io/c/lethal-company/p/tfmagic/Badwater_TF2MapMoon/)-[Upward](https://thunderstore.io/c/lethal-company/p/tfmagic/Upward_TF2MapMoon/)
-- [Dustbowl](https://thunderstore.io/c/lethal-company/p/tfmagic/Dustbowl_TF2MapMoon/)-[Coldfront](https://thunderstore.io/c/lethal-company/p/tfmagic/Coldfront_TF2MapMoon/)
-- [Coaltown](https://thunderstore.io/c/lethal-company/p/tfmagic/Coaltown_TF2MVMMapMoon/)-[Mannhattan](https://thunderstore.io/c/lethal-company/p/tfmagic/Mannhattan_TF2MapMoon/)
+## Welcome!You can report any found bug in map,Or if you want to have a look at mod,you can download them on [Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/) or any other mod manager. Hope you have fun with the TF2 content in Lethal Company!
+## 致命公司 TF2 地图模组，你可以在这里报告任何你发现的地图恶性bug，或者如果你想玩这些TF2地图，你可以前往[Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/)网站或使用模组管理器下载。在致命公司游戏中体验TF2地图
+---
+## Now we have these following TF2Map as **moon** mod 现在能玩的TF2**地图**模组 
+- [Badwater](https://thunderstore.io/c/lethal-company/p/tfmagic/Badwater_TF2MapMoon/) -- [Upward](https://thunderstore.io/c/lethal-company/p/tfmagic/Upward_TF2MapMoon/)
+- [Dustbowl](https://thunderstore.io/c/lethal-company/p/tfmagic/Dustbowl_TF2MapMoon/) -- [Coldfront](https://thunderstore.io/c/lethal-company/p/tfmagic/Coldfront_TF2MapMoon/)
+- [Coaltown](https://thunderstore.io/c/lethal-company/p/tfmagic/Coaltown_TF2MVMMapMoon/) -- [Mannhattan](https://thunderstore.io/c/lethal-company/p/tfmagic/Mannhattan_TF2MapMoon/)
 - [DegrootKeep](https://thunderstore.io/c/lethal-company/p/tfmagic/Deegrootkeep_TF2MapMoon/)
 
-Now we have these following TF2Map as **Interior** mod
+## Now we have these following TF2Map as **Interior** mod 现在能玩的TF2**地牢**模组 
 - [Turbine](https://thunderstore.io/c/lethal-company/p/tfmagic/TF2_Turbine_Interior/)
 ---
 ## Before Reporting
@@ -40,11 +41,6 @@ If you are about creating a new issue, please include the following information:
 -[If you can reproduce the bug by following specific steps, please provide them]
 ### Screenshots (optional)
 -[Attach images if you have clear ones - it'll be helpful]
-
----
----
-
-致命公司 TF2 地图模组，你可以在这里报告任何你发现的地图恶性bug，或者如果你想玩，你可以前往Thunderstore网站或使用模组管理器下载。在致命公司游戏中体验TF2地图
 
 ---
 
