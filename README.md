@@ -1,4 +1,4 @@
-## Welcome!You can report any found bug in map,Or if you want to have a look at mod,you can download them on [Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/) or any other mod manager. Hope you have fun with the TF2 content in Lethal Company!
+## Welcome!You can report any found bug of map,Or if you want to have a look at mod,you can download them on [Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/) or any other mod manager. Hope you have fun with the TF2 content in Lethal Company!
 ## 致命公司 TF2 地图模组，你可以在这里报告任何你发现的地图恶性bug，或者如果你想玩这些TF2地图，你可以前往[Thunderstore](https://thunderstore.io/c/lethal-company/p/tfmagic/)网站或使用模组管理器下载。在致命公司游戏中体验TF2地图
 ---
 ## Now we have these following TF2Map as **moon** mod 现在能玩的TF2**地图**模组 
