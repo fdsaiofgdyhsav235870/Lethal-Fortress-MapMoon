@@ -35,7 +35,7 @@
 ---
 ## Now we have these following TF2Map as **moon** mod 现在能玩的TF2**地图**模组 
 - [Badwater](https://thunderstore.io/c/lethal-company/p/tfmagic/Badwater_TF2MapMoon/) -- [Upward](https://thunderstore.io/c/lethal-company/p/tfmagic/Upward_TF2MapMoon/)
-- [Dustbowl](https://thunderstore.io/c/lethal-company/p/tfmagic/Dustbowl_TF2MapMoon/) -- [Coldfront](https://thunderstore.io/c/lethal-company/p/tfmagic/Coldfront_TF2MapMoon/)
+- [Dustbowl](https://thunderstore.io/c/lethal-company/p/tfmagic/Dustbowl_TF2MapMoon/) -- [Coldfront](https://thunderstore.io/c/lethal-company/p/tfmagic/Coldfront_TF2MapMoon/) -- [Badland](https://thunderstore.io/c/lethal-company/p/tfmagic/Badland_TF2MapMoon_Interior/)
 - [Coaltown](https://thunderstore.io/c/lethal-company/p/tfmagic/Coaltown_TF2MVMMapMoon/) -- [Mannhattan](https://thunderstore.io/c/lethal-company/p/tfmagic/Mannhattan_TF2MapMoon/)
 - [DegrootKeep](https://thunderstore.io/c/lethal-company/p/tfmagic/Deegrootkeep_TF2MapMoon/)
 
